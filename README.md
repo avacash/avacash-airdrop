@@ -19,7 +19,7 @@ Users that had at least 1 (balance >= 1.000000000000) SHERPA token in the Avalan
 
 - Blocknumber: 4081478
 - Total tokens to share: 5,000
-- Equal number of tokens per token holders
+- Equal number of CASH tokens per SHERPA token holders
 
 ## tornAirdrop.json.
 Users that had at least 1 (balance >= 1.000000000000) TORN token in the Ethereum blockchain at the Block Number 13194684 : https://etherscan.io/block/13194684
@@ -27,7 +27,7 @@ Users that had at least 1 (balance >= 1.000000000000) TORN token in the Ethereum
 
 - Blocknumber: 13194684
 - Total tokens to share: 5,000
-- Equal number of tokens per token holders
+- Equal number of CASH tokens per TORN token holders
 
 ## communityAirdrop.json
 - First 250 users per community airdrop program.
