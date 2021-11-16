@@ -12,7 +12,7 @@ The amount of cash tokens was calculated per `earlyUser` as follows:
   - 10 AVAX's Instance: 8 points:
   - 100 AVAX's Instance: 16 points.
 
-- CASH = (earlyUserRate/totalPoints)*(20,000)
+- CASH = (earlyUserPoints/totalPoints)*(20,000)
 
 ## sherpaAirdrop.json.
 Users that had at least 1 (balance >= 1.000000000000) SHERPA token in the Avalanche blockchain at the Block Number 4081478 : https://snowtrace.io/block/4081478. (September 10th, 2021, 00:00:00 )
