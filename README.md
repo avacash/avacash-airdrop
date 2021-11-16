@@ -37,4 +37,5 @@ Users that had at least 1 (balance >= 1.000000000000) TORN token in the Ethereum
 Please read: https://avacash.medium.com/community-airdrop-for-privacy-focused-investments-7138088e1d3e
 
 ## Questions?
-contact@avacash.finance
+info@avacash.finance
+Tokenomics article: https://avacash.medium.com/introducing-cash-tokenomics-for-privacy-focused-investments-bbc213a430a0
