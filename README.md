@@ -8,9 +8,9 @@ Users that have deposited in any of the Avacash.Finance's Instance until the blo
 The amount of cash tokens was calculated per `earlyUser` as follows:
 - Only one deposit per early user per instance was considered.
 - Each instance gives a different amount of points
-  - 1 AVAX's Instance: 1 point:
-  - 10 AVAX's Instance: 8 points:
-  - 100 AVAX's Instance: 16 points.
+  - 1 AVAX Instance: 1 point:
+  - 10 AVAX Instance: 8 points:
+  - 100 AVAX Instance: 16 points.
 
 - CASH = (earlyUserPoints/totalPoints)*(20,000)
 
