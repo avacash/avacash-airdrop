@@ -1,18 +1,20 @@
 # avacash-airdrop
 
-## earlyUsersAirdrop.json - preliminary list
-Users that have deposited in any of the Avacash.Finance's Instance until the block 6985545.
+## earlyUsersAirdrop.json - FINAL LIST
+Users that have deposited in any of the Avacash.Finance's Instance until block N°7974288 in Avalanche Mainnet, and until block N°3568234 in Fuji.
 
-**Note:** This is just a preliminary block, hence a **preliminary list**, the final list of early users will be taken when the Anonymity Mining program starts. You can still participate by depositing in any of the Avacash.Finance's instance until that date (to confirm).
+This was the previous block before the Avacash.Finance attack on December 10th 2021.
 
-The amount of cash tokens was calculated per `earlyUser` as follows:
+New audited Anonimity Pools will be launched directly with Anonymity Mining, so there won't be any early adopter program in the future.
+
+The amount of cash tokens was calculated per `earlyAdopter` as follows:
 - Only one deposit per early user per instance was considered.
 - Each instance gives a different amount of points
   - 1 AVAX Instance: 1 point:
   - 10 AVAX Instance: 8 points:
   - 100 AVAX Instance: 16 points.
 
-- CASH = (earlyUserPoints/totalPoints)*(20,000)
+- `CASH = (earlyAdopterPoints/totalPoints)*(20,000)`
 
 ## sherpaAirdrop.json.
 Users that had at least 1 (balance >= 1.000000000000) SHERPA token in the Avalanche blockchain at the Block Number 4081478 : https://snowtrace.io/block/4081478. (September 10th, 2021, 00:00:00 )
